@@ -8,10 +8,6 @@
 # Hi,I'm Shi Jiu! 👋
 - Computer engineering college students and open source enthusiasts.
 
-# 我的Start
-
-<img src="https://github-readme-stats.vercel.app/api?username=nextde2477&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
-
 - 🌱Currently attending school in Huizhou, China.
 - 💬 Ask me about Java, Python and my projects on [2477503133@qq.com](mailto:2477503133@qq.com)
 - ⭐ You may like Python Java
@@ -21,6 +17,10 @@
 <a href="https://github.com/nextde2477">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextde2477&theme=vue" />
 </a>
+
+# 我的Start
+
+<img src="https://github-readme-stats.vercel.app/api?username=nextde2477&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 
 ### 关于我
