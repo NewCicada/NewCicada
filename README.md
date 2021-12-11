@@ -16,10 +16,11 @@
 ## Languages
 <a href="https://github.com/nextde2477">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextde2477&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nextde2477&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nextde2477&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+
 
 
 ### 关于我
