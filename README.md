@@ -18,7 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextde2477&theme=vue" />
 </a>
 
-# 我的Start
 
 <img src="https://github-readme-stats.vercel.app/api?username=nextde2477&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
