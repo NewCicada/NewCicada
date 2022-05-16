@@ -60,6 +60,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
 
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**Project language mainly**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextde2477&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
