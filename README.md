@@ -63,3 +63,12 @@
 📊 &nbsp;**Project language mainly**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextde2477&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+📊 **My recent programming status:**
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
