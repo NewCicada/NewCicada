@@ -62,8 +62,4 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nextde2477)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-**If you like this readme file, please give me star! ❤️**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextde2477&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
