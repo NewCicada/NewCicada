@@ -35,7 +35,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=nextde2477&count_private=true&show_icons=true" alt="Jackyu" />
 
 **Technology being learned**
 
@@ -62,5 +62,8 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=nextde2477&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nextde2477)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+**If you like this readme file, please give me star! ❤️**
