@@ -58,8 +58,3 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-
-
-📊 &nbsp;**Project language mainly**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewCicada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
