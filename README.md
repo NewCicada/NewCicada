@@ -12,8 +12,8 @@ I love writing and all things fun and try to do it.
 <br>
 I want to make some interesting ideas to change the world
 
-- 🌱 I am currently learning front end
-- 💬 Be free to ask me about anything [here](https://github.com/NewCicada/NewCicada/issues).
+🌱 I am currently learning front end
+💬 Be free to ask me about anything [here](https://github.com/NewCicada/NewCicada/issues).
 
 --- 
 
