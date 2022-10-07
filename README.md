@@ -6,10 +6,11 @@
   <a href="https://space.bilibili.com/113248991"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <br>
 
-* I am a college student from China,  am also a transcoder.
+I am a college student from China,  am also a transcoder.
+<br>
 I love writing and all things fun and try to do it.
-
-* I want to make some interesting ideas to change the world
+<br>
+I want to make some interesting ideas to change the world
 
 - 🌱 I am currently learning front end
 - 💬 Be free to ask me about anything [here](https://github.com/NewCicada/NewCicada/issues).
