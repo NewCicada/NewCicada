@@ -4,8 +4,6 @@
 <div align="center">
   <a href="https://twitter.com/newcicada1"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://space.bilibili.com/113248991"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=NewCicada" alt="访客统计" /></div>
 <br>
 
 * I am a college student from China,  am also a transcoder.
