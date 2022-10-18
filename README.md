@@ -37,3 +37,7 @@ I want to make some interesting ideas to change the world
 ### GitHub 统计：
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=NewCicada&theme=blueberry&count_private=true&hide_border=true&line_height=30)
+  
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
