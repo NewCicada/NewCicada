@@ -40,4 +40,9 @@ I want to make some interesting ideas to change the world
   
  
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
