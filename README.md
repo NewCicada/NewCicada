@@ -42,7 +42,12 @@ I want to make some interesting ideas to change the world
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 May 2022 - To: 18 October 2022
+
+Total Time: 11 mins
+
+Python   10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.91 %
+Text     0 secs          -------------------------   01.09 %
 ```
 
 <!--END_SECTION:waka-->
