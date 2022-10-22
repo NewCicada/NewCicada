@@ -42,16 +42,16 @@ I want to make some interesting ideas to change the world
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2022 - To: 19 October 2022
+From: 15 May 2022 - To: 20 October 2022
 
-Total Time: 1 hr 27 mins
+Total Time: 1 hr 37 mins
 
-Python       39 mins         >>>>>>>>>>>--------------   44.79 %
-JavaScript   23 mins         >>>>>>>------------------   26.35 %
-Vue.js       19 mins         >>>>>--------------------   21.77 %
-JSON         5 mins          >>-----------------------   06.35 %
-SCSS         0 secs          -------------------------   00.50 %
-Text         0 secs          -------------------------   00.14 %
+Python       39 mins         >>>>>>>>>>---------------   40.23 %
+JavaScript   23 mins         >>>>>>-------------------   23.67 %
+Vue.js       19 mins         >>>>>--------------------   19.55 %
+XML          8 mins          >>-----------------------   08.80 %
+JSON         5 mins          >------------------------   05.70 %
+Bash         1 min           -------------------------   01.39 %
 ```
 
 <!--END_SECTION:waka-->
