@@ -42,7 +42,7 @@ I want to make some interesting ideas to change the world
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2022 - To: 22 October 2022
+From: 15 May 2022 - To: 23 October 2022
 
 Total Time: 2 hrs 56 mins
 
