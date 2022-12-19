@@ -38,20 +38,3 @@ I want to make some interesting ideas to change the world
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=NewCicada&theme=blueberry&count_private=true&hide_border=true&line_height=30)
   
- 
-<!--START_SECTION:waka-->
-
-```text
-From: 15 May 2022 - To: 17 December 2022
-
-Total Time: 50 hrs 30 mins
-
-JavaScript   11 hrs 9 mins   >>>>>>-------------------   22.11 %
-Vue.js       10 hrs 41 mins  >>>>>--------------------   21.16 %
-HTML         6 hrs 49 mins   >>>----------------------   13.51 %
-JSON         5 hrs 7 mins    >>>----------------------   10.14 %
-CSS          3 hrs 41 mins   >>-----------------------   07.32 %
-XML          3 hrs 23 mins   >>-----------------------   06.71 %
-```
-
-<!--END_SECTION:waka-->
